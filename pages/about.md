@@ -14,14 +14,11 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Photos in this collection were casually gathered in the summer of 2012 in response to an observation that the streets of downtown Edmonton, Alberta were often decorated by abandoned items of clothing.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This site is technically a demo of a great tool called [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), but I admit I've always been curious about questions of how these items ended up where they are and how they correlate with issues faced by unhomed people in the downtown core.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+All photos were taken with an iPhone camera, and the benefit of that approach is that each photo is dated and tagged with a physical location. That makes this odd collection of photos a great sample data set to use for CollectionBuilder, because it gives the map and timeline some data to work with! 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
